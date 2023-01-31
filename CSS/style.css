@@ -3,4 +3,23 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    background-color: rgb(238, 238, 238);
+}
+
+h1{
+    display: inline-block;
+    line-height: 62px;
+    vertical-align: middle;
+}
+
+.logo{
+    vertical-align: middle;
+}
+
+.logo-container{
+    padding: 5px 15px;
+}
+
+.bg-color{
+    background-color: white;
 }
