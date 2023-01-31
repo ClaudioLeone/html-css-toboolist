@@ -5,6 +5,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* GENERIC */
 body{
     background-color: rgb(248, 248, 248);
 }
@@ -19,6 +20,7 @@ li{
     margin: 15px 0;
 }
 
+/* IDs */
 #triang-entity{
     font-size: 25px;
 }
@@ -32,6 +34,7 @@ li{
     color: lightgrey;
 }
 
+/* CLASSES */
 .logo{
     vertical-align: middle;
 }
@@ -67,7 +70,9 @@ li{
 }
 
 .bullets-position{
-    margin-left: 35px;
+
+    margin-left: px;
+    list-style-type: none;
 }
 
 .msg-category{
@@ -105,4 +110,26 @@ li{
 
 .sales-color{
     background-color: lime ;
+}
+
+.green-dot{
+    color: green;
+    line-height: 100%;
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.red-dot{
+    color: red;
+    line-height: 100%;
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 5px;
 }
