@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-    /* background-color: rgb(248, 248, 248); */
 }
 
 body{
@@ -82,4 +81,28 @@ li{
 
 .central-section-color{
     background-color: white;
+}
+
+.editorial-color{
+    background-color: cornflowerblue;
+}
+
+.goals-color{
+    background-color: blueviolet;
+}
+
+.recruiting-color{
+    background-color :mediumspringgreen
+}
+
+.mobile-color{
+    background-color: chocolate;
+}
+
+.website-color{
+    background-color: deeppink;
+}
+
+.sales-color{
+    background-color: lime ;
 }
